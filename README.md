@@ -13,3 +13,7 @@ The source code of each algorithm has four parameters, corresponding to the algo
   > g++ -std=c++11 main.cpp graph.cpp -O3 -o OptEnum
   >
   > ./OptEnum OptEnum D6 1 3
+
+## Datasets
+
+We provide six datasets in the folder "sample_dataset" for testing, D1 to D6.
