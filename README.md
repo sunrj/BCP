@@ -1,4 +1,4 @@
-# Cplex
+# CPlex
 
 ## Running Format
 
