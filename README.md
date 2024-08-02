@@ -4,7 +4,7 @@
 
 The source codes of our paper are in the folder "src".
 
-The source code of each algorithm has four parameters, corresponding to the algorithm name (e.g., **VFree**), the dataset name (e.g., **D5**), the two size constraints $\tau_U$ and $\tau_V$ (e.g., **5 4**), and the frequency constraint &lambda; (e.g., **3**).
+The source code of each algorithm has four parameters, corresponding to the algorithm name (e.g., **OptEnum**), the dataset name (e.g., **D6**), an integer $k$ (e.g., **1**), and the size constraint &delta; (e.g., **3**).
 
 * Running example for Algorithms **VFree** and **VFree-**
 
