@@ -1,4 +1,4 @@
-# CPlex
+# CliPlex
 
 ## Running Format
 
